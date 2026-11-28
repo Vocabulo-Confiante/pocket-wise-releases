@@ -48,4 +48,5 @@ builds.
 Found a bug or have an idea? Open an issue in this repository's
 [issue tracker](https://github.com/Vocabulo-Confiante/pocket-wise-releases/issues).
 Please include your operating system, the app version and the steps to
-reproduce.
+reproduce. Report a security vulnerability privately instead, as
+[SECURITY.md](SECURITY.md) describes.

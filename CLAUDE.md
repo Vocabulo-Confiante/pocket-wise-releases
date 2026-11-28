@@ -4,7 +4,8 @@ The public download page for PocketWise. It holds the installers and release not
 source code is private and lives in the app's own repository.
 
 - `README.md`: what the app is, the download table, install steps per platform, versioning,
-  and where to report issues. It is the only file in the repository
+  and where to report issues
+- `SECURITY.md`: how to report a vulnerability privately, and what the policy covers
 - The installers, the `SHA256SUMS` file and the release notes are GitHub release assets, not
   files in the tree
 
